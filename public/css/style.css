@@ -3,7 +3,7 @@
 }
 
 input:focus {
-    border: #006dcc;
+    border: salmon;
 }
 
 textarea {
